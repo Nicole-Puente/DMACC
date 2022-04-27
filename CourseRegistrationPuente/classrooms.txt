@@ -1,3 +1,0 @@
-3,28a,Carroll,Science lab,22
-Betts,12,Urban,Classroom,18
-8,17,Ankeny,Computer Lab,20
